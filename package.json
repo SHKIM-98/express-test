@@ -1,0 +1,22 @@
+{
+  "name": "express-test",
+  "version": "1.0.0",
+  "description": "express app for jenkins CI/CD test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHKIM-98/express-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHKIM-98/express-test/issues"
+  },
+  "homepage": "https://github.com/SHKIM-98/express-test#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
